@@ -8,3 +8,5 @@ https://huggingface.co/humarin/chatgpt_paraphraser_on_T5_base?text=What+are+the+
 
 https://huggingface.co/openchat/openchat-3.5-1210
 
+https://huggingface.co/ltg/nort5-large
+-> Norsk

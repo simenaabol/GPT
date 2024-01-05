@@ -4,9 +4,9 @@ https://huggingface.co/models?pipeline_tag=text-to-speech
 
 https://huggingface.co/versae/nb-nst-tts
 
+https://huggingface.co/microsoft/speecht5_tts
 
-https://huggingface.co/facebook/mms-tts-mam-dialect_northern
-https://huggingface.co/facebook/mms-tts-quc-dialect_north
+https://huggingface.co/facebook/mms-tts-eng
 
 Facebook: 
 ![Alt text](image.png)
